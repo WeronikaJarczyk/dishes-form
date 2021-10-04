@@ -1,9 +1,9 @@
-
+import { MainForm } from './MainForm'
 
 function App() {
   return (
     <div className="App">
-
+      <MainForm />
     </div>
   );
 }
