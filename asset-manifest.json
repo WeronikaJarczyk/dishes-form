@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dishes-form/static/css/main.7ade49c4.chunk.css",
+    "main.js": "/dishes-form/static/js/main.c168a2a3.chunk.js",
+    "main.js.map": "/dishes-form/static/js/main.c168a2a3.chunk.js.map",
+    "runtime-main.js": "/dishes-form/static/js/runtime-main.c24ccbf3.js",
+    "runtime-main.js.map": "/dishes-form/static/js/runtime-main.c24ccbf3.js.map",
+    "static/css/2.2e2b9df6.chunk.css": "/dishes-form/static/css/2.2e2b9df6.chunk.css",
+    "static/js/2.9906e0b5.chunk.js": "/dishes-form/static/js/2.9906e0b5.chunk.js",
+    "static/js/2.9906e0b5.chunk.js.map": "/dishes-form/static/js/2.9906e0b5.chunk.js.map",
+    "index.html": "/dishes-form/index.html",
+    "static/css/2.2e2b9df6.chunk.css.map": "/dishes-form/static/css/2.2e2b9df6.chunk.css.map",
+    "static/css/main.7ade49c4.chunk.css.map": "/dishes-form/static/css/main.7ade49c4.chunk.css.map",
+    "static/js/2.9906e0b5.chunk.js.LICENSE.txt": "/dishes-form/static/js/2.9906e0b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24ccbf3.js",
+    "static/css/2.2e2b9df6.chunk.css",
+    "static/js/2.9906e0b5.chunk.js",
+    "static/css/main.7ade49c4.chunk.css",
+    "static/js/main.c168a2a3.chunk.js"
+  ]
+}
